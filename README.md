@@ -32,8 +32,44 @@ O **Sistema de Monitoramento de Sinais Vitais** foi projetado para o monitoramen
 ## Montagem no tinkercad
 
 ![Image](https://github.com/user-attachments/assets/ee258ffd-e552-4397-bbe3-9d1ffd809c01)
-No esquema para a montagem no tinkercad, foram utilizados um Arduino UNO R3, um resistor de 10kΩ, um LCD 16X2, potenciômetro (simular o sensor de batimentos cardíacos e nível de oxigênio).
+
+No esquema para a montagem no tinkercad, foram utilizados um Arduino UNO R3, 3 resistores de 10kΩ, um LCD 16X2, potenciômetro (simular o sensor de batimentos cardíacos e nível de oxigênio).
+
 **Link para o tinkercad:** https://www.tinkercad.com/things/ghEfPm2XXAq-terrific-jarv
+
+## Componentes
+
+**Arduino UNO R3**
+
+![Image](https://github.com/user-attachments/assets/84227060-8d15-4c05-8555-f720e514125c)
+
+**Display LCD 16x2 I²C**
+
+![Image](https://github.com/user-attachments/assets/0d49e4b1-bd67-4866-84d5-e3d0e92fdd8a)
+
+**Sensor MAX30102**
+
+![Image](https://github.com/user-attachments/assets/ea8cc5fe-0655-4708-a2d2-0485ac106d31)
+
+**Módulo Bluetooth (HC05)**
+
+![Image](https://github.com/user-attachments/assets/03621341-fc88-45be-aa03-a9fe1651f11e)
+
+**Montagem completa**
+
+![Image](https://github.com/user-attachments/assets/23b8e19a-edab-4809-9232-2e133b6aca43)
+
+**Extras**
+
+Além disso, foram utilizados:
+- 1 protoboard
+- 19 fios de conexão
+- 3 resistores de 10kΩ
+- 1 bateria de 9V
+
+**Guia de montagem**
+
+![Image](https://github.com/user-attachments/assets/1c6bc39a-57ac-4c32-9786-aeb680aa8dfa)
 
 # English 🇺🇸
 
@@ -65,3 +101,47 @@ The **Vital Signs Monitoring System** is designed for continuous monitoring of h
 2. Upload the Arduino code to your Arduino board.
 3. Pair the Bluetooth module with your mobile or PC.
 4. Open the Python script to receive the data and log it in an Excel file.
+
+
+## Tinkercad assembly
+
+![Image](https://github.com/user-attachments/assets/ee258ffd-e552-4397-bbe3-9d1ffd809c01)
+
+In the Tinkercad assembly diagram, the components include an Arduino UNO R3, three 10kΩ resistors, a 16x2 LCD display, and a potentiometer acting as simulated sensors for heart rate and blood oxygen levels.
+
+**Tinkercad Link:** https://www.tinkercad.com/things/ghEfPm2XXAq-terrific-jarv
+
+## Components
+
+**Arduino UNO R3** 
+
+![Image](https://github.com/user-attachments/assets/84227060-8d15-4c05-8555-f720e514125c)
+
+**16x2 I²C LCD Display**
+
+![Image](https://github.com/user-attachments/assets/0d49e4b1-bd67-4866-84d5-e3d0e92fdd8a)
+
+**MAX30102 Sensor**
+
+![Image](https://github.com/user-attachments/assets/ea8cc5fe-0655-4708-a2d2-0485ac106d31)
+
+**Bluetooth Module (HC-05)**
+
+![Image](https://github.com/user-attachments/assets/03621341-fc88-45be-aa03-a9fe1651f11e)
+
+**Complete assembly**
+
+![Image](https://github.com/user-attachments/assets/23b8e19a-edab-4809-9232-2e133b6aca43)
+
+
+**Extras**
+
+Additionally, the following components were used:
+- 1 breadboard
+- 19 jumper wires
+- 3 resistors of 10kΩ
+- 1 9V battery
+
+**Assembly Guide** 
+
+![Image](https://github.com/user-attachments/assets/bc550299-e1c2-481b-afb4-52a642ee0b69)
