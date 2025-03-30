@@ -1,7 +1,5 @@
 # Português 🇧🇷
 
-![Image](https://github.com/user-attachments/assets/32b3a47b-ab21-4bde-8a4f-c557629c6106)
-
 # Sistema de Monitoramento de Sinais Vitais
 
 ## Visão Geral
