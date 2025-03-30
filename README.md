@@ -29,6 +29,12 @@ O **Sistema de Monitoramento de Sinais Vitais** foi projetado para o monitoramen
 3. Emparelhe o módulo Bluetooth com seu dispositivo móvel ou PC.
 4. Abra o script em Python para receber os dados e registrá-los em um arquivo Excel.
 
+## Montagem no tinkercad
+
+![Image](https://github.com/user-attachments/assets/ee258ffd-e552-4397-bbe3-9d1ffd809c01)
+No esquema para a montagem no tinkercad, foram utilizados um Arduino UNO R3, um resistor de 10kΩ, um LCD 16X2, potenciômetro (simular o sensor de batimentos cardíacos e nível de oxigênio).
+**Link para o tinkercad:** https://www.tinkercad.com/things/ghEfPm2XXAq-terrific-jarv
+
 # English 🇺🇸
 
 # Vital Signs Monitoring System
